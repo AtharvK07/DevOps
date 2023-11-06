@@ -1,0 +1,4 @@
+This is my task for day 8 and adding content of day 2
+What is Linux?
+Linux is an open-source operating system (OS) that is widely used in servers, desktop computers, smartphones, and other devices. 
+Linux was created in the early 1990s by Linus Torvalds and is based on the Unix operating system.
